@@ -1,0 +1,17 @@
+{
+  "name": "attx4-1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "ambient.js",
+  "dependencies": {
+    "ambient-attx4": "~0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "*"
+  }
+}
